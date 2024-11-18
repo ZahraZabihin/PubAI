@@ -1,0 +1,14 @@
+openai
+python-dotenv
+langchain
+faiss-cpu
+tiktoken
+PyMuPDF
+python-docx
+streamlit
+pandas
+PyPDF2
+requests
+lxml
+xmltodict
+nginx
