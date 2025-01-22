@@ -11,4 +11,3 @@ PyPDF2
 requests
 lxml
 xmltodict
-nginx
