@@ -2,7 +2,6 @@ streamlit
 pandas
 python-dotenv
 PyPDF2
-fitz
 python-docx
 requests
 langchain
@@ -11,3 +10,4 @@ langchain
 langchain_community
 pymupdf
 faiss-cpu
+PyMuPDF
